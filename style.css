@@ -390,6 +390,7 @@ h2{
   border-radius: 4px;
   border: 0.25rem solid #14bf98;
   color: white;
+  cursor: pointer;
 }
 .Service-card-body div button:hover{
     color:#14bf98;
